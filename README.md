@@ -41,10 +41,10 @@
 
 
 
-## 📈 Languages Used
-<p align="left">
+
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishna-ai&layout=compact&theme=tokyonight&hide_border=false" height="160" />
-</p>
+</p> -->
 
 
 
@@ -58,8 +58,8 @@
 ### ⭐ "Learning something new every day, one commit at a time"
 
 
-## 🎨 Custom Color Theme
-<p align="center">
+<!--## 🎨 Custom Color Theme
+ <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C9A7&height=150&section=header&text=Ramakrishna%20AI&fontSize=40&fontColor=ffffff" />
 </p>
 
@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Violet-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Red-FF3B30?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Yellow-FFD700?style=for-the-badge" />
-</p>
+</p> -->
 
 
 
